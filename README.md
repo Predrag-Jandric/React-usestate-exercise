@@ -1,6 +1,6 @@
 # React - useState exercise
 
-# 🔗 [Live Preview]()
+# 🔗 [Live Preview](https://eloquent-cheesecake-4b7f0f.netlify.app/)
 
 ![Design preview](public/preview.png)
 
