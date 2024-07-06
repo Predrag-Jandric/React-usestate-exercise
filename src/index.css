@@ -29,12 +29,7 @@
   gap: 1rem;
 }
 
-.counter > p {
-  font-size: 2rem;
-}
-
 .btn {
-  /* padding: 1rem; */
   width: 4rem;
   color: black;
   font-size: 3rem;
@@ -45,6 +40,12 @@
   font-size: 1.7rem;
 }
 
+input {
+  color: black;
+  font-size: 1.2rem;
+  padding: 0.3rem 0.5rem;
+  width: 15rem;
+}
 
 .btn-reset {
   color: black;
